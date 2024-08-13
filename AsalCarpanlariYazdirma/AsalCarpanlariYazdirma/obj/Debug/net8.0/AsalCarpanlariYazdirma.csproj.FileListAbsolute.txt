@@ -1,0 +1,14 @@
+C:\Users\ERALP\Desktop\algorithms\AsalCarpanlariYazdirma\AsalCarpanlariYazdirma\bin\Debug\net8.0\AsalCarpanlariYazdirma.exe
+C:\Users\ERALP\Desktop\algorithms\AsalCarpanlariYazdirma\AsalCarpanlariYazdirma\bin\Debug\net8.0\AsalCarpanlariYazdirma.deps.json
+C:\Users\ERALP\Desktop\algorithms\AsalCarpanlariYazdirma\AsalCarpanlariYazdirma\bin\Debug\net8.0\AsalCarpanlariYazdirma.runtimeconfig.json
+C:\Users\ERALP\Desktop\algorithms\AsalCarpanlariYazdirma\AsalCarpanlariYazdirma\bin\Debug\net8.0\AsalCarpanlariYazdirma.dll
+C:\Users\ERALP\Desktop\algorithms\AsalCarpanlariYazdirma\AsalCarpanlariYazdirma\bin\Debug\net8.0\AsalCarpanlariYazdirma.pdb
+C:\Users\ERALP\Desktop\algorithms\AsalCarpanlariYazdirma\AsalCarpanlariYazdirma\obj\Debug\net8.0\AsalCarpanlariYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERALP\Desktop\algorithms\AsalCarpanlariYazdirma\AsalCarpanlariYazdirma\obj\Debug\net8.0\AsalCarpanlariYazdirma.AssemblyInfoInputs.cache
+C:\Users\ERALP\Desktop\algorithms\AsalCarpanlariYazdirma\AsalCarpanlariYazdirma\obj\Debug\net8.0\AsalCarpanlariYazdirma.AssemblyInfo.cs
+C:\Users\ERALP\Desktop\algorithms\AsalCarpanlariYazdirma\AsalCarpanlariYazdirma\obj\Debug\net8.0\AsalCarpanlariYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\ERALP\Desktop\algorithms\AsalCarpanlariYazdirma\AsalCarpanlariYazdirma\obj\Debug\net8.0\AsalCarpanlariYazdirma.dll
+C:\Users\ERALP\Desktop\algorithms\AsalCarpanlariYazdirma\AsalCarpanlariYazdirma\obj\Debug\net8.0\refint\AsalCarpanlariYazdirma.dll
+C:\Users\ERALP\Desktop\algorithms\AsalCarpanlariYazdirma\AsalCarpanlariYazdirma\obj\Debug\net8.0\AsalCarpanlariYazdirma.pdb
+C:\Users\ERALP\Desktop\algorithms\AsalCarpanlariYazdirma\AsalCarpanlariYazdirma\obj\Debug\net8.0\AsalCarpanlariYazdirma.genruntimeconfig.cache
+C:\Users\ERALP\Desktop\algorithms\AsalCarpanlariYazdirma\AsalCarpanlariYazdirma\obj\Debug\net8.0\ref\AsalCarpanlariYazdirma.dll
